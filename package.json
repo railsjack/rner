@@ -7,7 +7,7 @@
         "bin/",
         "lib/",
         "README.md",
-        "index.ts"
+        "index.js"
     ],
     "repository": {
         "type": "git",
@@ -20,7 +20,7 @@
         "Maker"
     ],
     "bin": {
-        "rner": "index.ts"
+        "rner": "index.js"
     },
     "dependencies": {
         "typescript": "^3.8.3",

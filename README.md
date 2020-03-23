@@ -13,6 +13,12 @@ yarn global add rner
 npm install -g rner
 ```
 
+### Creating a project
+ex: App name is Demo
+```
+rner new Demo
+```
+
 
 
 ### Philosophy
