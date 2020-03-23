@@ -1,6 +1,6 @@
 # RNer (React Native App Maker)  
 
-### This is a sub-framework of React-Naitve, and it provides a way to create screens and components for the mobile application.  
+This is a sub-framework of React-Naitve, and it provides a way to create screens and components for the mobile application.  
 
 ## Installation
 ### Yarn
