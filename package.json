@@ -1,0 +1,29 @@
+{
+    "name": "rner",
+    "version": "0.0.4",
+    "main": "./lib/rner.js",
+    "license": "Apache-2.0",
+    "files": [
+        "bin/",
+        "lib/",
+        "README.md",
+        "index.ts"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/railsjack/rner"
+    },
+    "keywords": [
+        "React",
+        "Native",
+        "App",
+        "Maker"
+    ],
+    "bin": {
+        "rner": "index.ts"
+    },
+    "dependencies": {
+        "typescript": "^3.8.3",
+        "ts-node": "^8.8.1"
+    }
+}
